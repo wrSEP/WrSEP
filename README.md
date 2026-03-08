@@ -20,4 +20,4 @@
 ## Contato
   LinkedIn: https://linkedin.com/in/wesley-rodrigues17
   Email: wesleyrafael.cota@gmail.com
-  Telefone: (12) 99164-9546
+  Telefone: http://wa.me/5512991649546
