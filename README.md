@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**wrSEP/WrSEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Sou o Wesley, estudante de desenvolvimento de software.  
+  Tenho interesse em Python, automação e desenvolvimento web.
 
-Here are some ideas to get you started:
+## Projetos
+  - **WR-AgentMail** — sistema para envio automático de e-mails.
+  - **Detector Fake News** — projeto que verifica se uma notícia pode ser falsa ou verdadeira.
+  - **PortalGrêmio** — sistema para informar novidades aos alunos da ETEC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+  - Python
+  - HTML
+  - CSS
+  - PHP
+  - JavaScript
+  - Git
+  - GitHub
+
+## Contato
+  LinkedIn: https://linkedin.com/in/wesley-rodrigues17
+  Email: wesleyrafael.cota@gmail.com
+  Telefone: (12) 99164-9546
