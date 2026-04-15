@@ -1,7 +1,7 @@
 # Olá 👋
 
-  Sou o Wesley, estudante de desenvolvimento de software.  
-  Tenho interesse em Python, automação e desenvolvimento web.
+  Sou o Wesley, estudante de Engenharia de Software  
+  Tenho interesse em Python, SQL e Análise de Dados.
 
 ## Projetos
   - **WR-AgentMail** — sistema para envio automático de e-mails.
