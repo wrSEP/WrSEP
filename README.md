@@ -5,17 +5,10 @@
 
 ## Projetos
   - **WR-AgentMail** — sistema para envio automático de e-mails.
-  - **Detector Fake News** — projeto que verifica se uma notícia pode ser falsa ou verdadeira.
-  - **PortalGrêmio** — sistema para informar novidades aos alunos da ETEC.
 
 ## Tecnologias
   - Python
-  - HTML
-  - CSS
-  - PHP
-  - JavaScript
-  - Git
-  - GitHub
+  - SQL
 
 ## Contato
   LinkedIn: https://linkedin.com/in/wesley-rodrigues17
